@@ -1,2 +1,1 @@
-# drupal-library-jqueryblockui
-jQuery Block UI (for filedepot)
+# drupal-library-jqueryblockui (for filedepot)
